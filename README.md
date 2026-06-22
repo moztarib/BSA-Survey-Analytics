@@ -1,5 +1,5 @@
 # Data Analytics Portfolio 
-### By: Faris Beg
+### Faris Beg
 
 Projects from a data analytics practicum covering Python, SQL, statistical analysis and Tableau.
 
