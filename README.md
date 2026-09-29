@@ -1,4 +1,4 @@
-# Data Analytics on British Social Attitudes Election Survey 
+# Data Analytics on British Social Attitudes (BSA) Election Survey Data 
 
 ### Faris Beg
 
