@@ -10,3 +10,5 @@ SQL Analysis: 10-query PostgreSQL covering GROUP BY, JOINS, subqueries and date 
 Tableau Dashboard: [[Live link](https://public.tableau.com/app/profile/faris.beg/viz/FarisBegHW4Dashboard/Dashboard1?publish=yes)]
 
 Tools: Python. Pandas SciPy Matplotlib. SQL PostgreSQL, Tableau
+
+Chi_square test: Some categories were regrouped before testing to ensure expected cell frequencies met the minimum threshold (≥5) required for a valid chi-square test
